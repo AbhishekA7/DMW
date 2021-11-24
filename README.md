@@ -1,5 +1,5 @@
 # DMW
-##Submissions for Data Mining and Warehousing (DMW) Assignments, Experiments and Mini Project.
+## Submissions for Data Mining and Warehousing (DMW) Assignments, Experiments and Mini Project.
 
 A. The assignments/experiments/project requiring python are done in anaconda evironment in jupyter notebook.
 
